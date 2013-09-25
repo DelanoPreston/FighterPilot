@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FighterPilot", "FighterPilot\FighterPilot\FighterPilot.csproj", "{820FB088-32B9-4904-B4FC-FC11396630B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FighterPilotContent", "FighterPilot\FighterPilotContent\FighterPilotContent.contentproj", "{97AEE536-0687-4E1B-B1B3-089A0615E5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary", "GameLibrary\GameLibrary.csproj", "{817A0DB1-FE80-475D-9B7F-EF70031A635D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820FB088-32B9-4904-B4FC-FC11396630B5}.Debug|x86.ActiveCfg = Debug|x86
+		{820FB088-32B9-4904-B4FC-FC11396630B5}.Debug|x86.Build.0 = Debug|x86
+		{820FB088-32B9-4904-B4FC-FC11396630B5}.Release|x86.ActiveCfg = Release|x86
+		{820FB088-32B9-4904-B4FC-FC11396630B5}.Release|x86.Build.0 = Release|x86
+		{97AEE536-0687-4E1B-B1B3-089A0615E5B6}.Debug|x86.ActiveCfg = Debug|x86
+		{97AEE536-0687-4E1B-B1B3-089A0615E5B6}.Release|x86.ActiveCfg = Release|x86
+		{817A0DB1-FE80-475D-9B7F-EF70031A635D}.Debug|x86.ActiveCfg = Debug|x86
+		{817A0DB1-FE80-475D-9B7F-EF70031A635D}.Debug|x86.Build.0 = Debug|x86
+		{817A0DB1-FE80-475D-9B7F-EF70031A635D}.Release|x86.ActiveCfg = Release|x86
+		{817A0DB1-FE80-475D-9B7F-EF70031A635D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
